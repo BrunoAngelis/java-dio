@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="218b7460-57f6-4246-a10b-081b46989288" name="Changes" comment="Criando Repositorio">
-      <change afterPath="$PROJECT_DIR$/src/tvsmart/SmartTv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tvsmart/Usuario.java" afterDir="false" />
+    <list default="true" id="218b7460-57f6-4246-a10b-081b46989288" name="Changes" comment="Criando projeto SmartTv">
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/TiposEscopo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659041267262</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Criando projeto SmartTv">
+      <created>1659043533876</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659043533876</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,8 +113,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Criando projeto SmartTv" />
     <MESSAGE value="Criando Repositorio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criando Repositorio" />
+    <MESSAGE value="Criando projeto SmartTv" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando projeto SmartTv" />
   </component>
 </project>
