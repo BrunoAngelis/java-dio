@@ -14,7 +14,7 @@ public class TIposVariaveis {
         System.out.println(numero);
 
         //definindo uma constante usar a palavra final e como boa pratica colocar em maiusculo
-        final double VALOR_DE_PI = 3.14;
+        final double VALOR_DE_PI =  3.14;
 
         System.out.println(VALOR_DE_PI);
     }
