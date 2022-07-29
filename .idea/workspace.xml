@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="218b7460-57f6-4246-a10b-081b46989288" name="Changes" comment="Criando projeto SmartTv">
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/TiposEscopo.java" afterDir="false" />
+    <list default="true" id="218b7460-57f6-4246-a10b-081b46989288" name="Changes" comment="Adicionado tipo de Escopos">
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/PalavrasReservadas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659043533876</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adicionado tipo de Escopos">
+      <created>1659049321477</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659049321477</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criando Repositorio" />
     <MESSAGE value="Criando projeto SmartTv" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criando projeto SmartTv" />
+    <MESSAGE value="Adicionado tipo de Escopos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado tipo de Escopos" />
   </component>
 </project>
