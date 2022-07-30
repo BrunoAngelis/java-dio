@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="218b7460-57f6-4246-a10b-081b46989288" name="Changes" comment="Adicionado exemplos de leitura">
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/CondicionalSimples.java" afterDir="false" />
+    <list default="true" id="218b7460-57f6-4246-a10b-081b46989288" name="Changes" comment="Adicionado exemplos de estrutura condicional simples">
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/CondicionalComposta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundamentos/CondicionalSimples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/CondicionalSimples.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +42,22 @@
     &quot;last_opened_file_path&quot;: &quot;D:/DIO/java-dio&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CondicionalSimples">
+  <component name="RunManager" selected="Application.CondicionalComposta">
     <configuration name="AboutMe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fundamentos.AboutMe" />
+      <module name="java-dio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fundamentos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CondicionalComposta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.CondicionalComposta" />
       <module name="java-dio" />
       <extension name="coverage">
         <pattern>
@@ -94,26 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Usuario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tvsmart.Usuario" />
-      <module name="java-dio" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tvsmart.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CondicionalComposta" />
         <item itemvalue="Application.CondicionalSimples" />
         <item itemvalue="Application.AboutMe" />
         <item itemvalue="Application.CriandoMetodos" />
         <item itemvalue="Application.MinhaClasse" />
-        <item itemvalue="Application.Usuario" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659209000272</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Adicionado exemplos de estrutura condicional simples">
+      <created>1659224097970</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1659224097970</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +203,7 @@
     <MESSAGE value="Adicionado tipo de Escopos" />
     <MESSAGE value="Adicionado exemplos de palavras reservadas" />
     <MESSAGE value="Adicionado exemplos de leitura" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionado exemplos de leitura" />
+    <MESSAGE value="Adicionado exemplos de estrutura condicional simples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado exemplos de estrutura condicional simples" />
   </component>
 </project>
