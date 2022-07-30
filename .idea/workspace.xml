@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="218b7460-57f6-4246-a10b-081b46989288" name="Changes" comment="Adicionado exemplos de estrutura condicional simples">
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/CondicionalComposta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundamentos/CondicionalSimples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/CondicionalSimples.java" afterDir="false" />
+    <list default="true" id="218b7460-57f6-4246-a10b-081b46989288" name="Changes" comment="Adicionado exemplos de estrutura condicional composta">
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/CondicionalEncadeada.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +40,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/DIO/java-dio&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CondicionalComposta">
+  <component name="RunManager" selected="Application.CondicionalEncadeada">
     <configuration name="AboutMe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fundamentos.AboutMe" />
       <module name="java-dio" />
@@ -58,6 +56,19 @@
     </configuration>
     <configuration name="CondicionalComposta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fundamentos.CondicionalComposta" />
+      <module name="java-dio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fundamentos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CondicionalEncadeada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.CondicionalEncadeada" />
       <module name="java-dio" />
       <extension name="coverage">
         <pattern>
@@ -95,26 +106,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinhaClasse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.MinhaClasse" />
-      <module name="java-dio" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fundamentos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CondicionalEncadeada" />
         <item itemvalue="Application.CondicionalComposta" />
         <item itemvalue="Application.CondicionalSimples" />
         <item itemvalue="Application.AboutMe" />
         <item itemvalue="Application.CriandoMetodos" />
-        <item itemvalue="Application.MinhaClasse" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659224097970</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Adicionado exemplos de estrutura condicional composta">
+      <created>1659224704823</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1659224704823</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,6 +209,7 @@
     <MESSAGE value="Adicionado exemplos de palavras reservadas" />
     <MESSAGE value="Adicionado exemplos de leitura" />
     <MESSAGE value="Adicionado exemplos de estrutura condicional simples" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionado exemplos de estrutura condicional simples" />
+    <MESSAGE value="Adicionado exemplos de estrutura condicional composta" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado exemplos de estrutura condicional composta" />
   </component>
 </project>
