@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="218b7460-57f6-4246-a10b-081b46989288" name="Changes" comment="Adicionado exemplos de estrutura condicional encadeada" />
+    <list default="true" id="218b7460-57f6-4246-a10b-081b46989288" name="Changes" comment="Adicionado exemplos de estrutura condicional ternaria">
+      <change beforePath="$PROJECT_DIR$/src/fundamentos/CondiçãoTernaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/CondiçãoTernaria.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659225176371</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Adicionado exemplos de estrutura condicional encadeada">
+      <created>1659225475160</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1659225475160</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,6 +225,7 @@
     <MESSAGE value="Adicionado exemplos de estrutura condicional simples" />
     <MESSAGE value="Adicionado exemplos de estrutura condicional composta" />
     <MESSAGE value="Adicionado exemplos de estrutura condicional encadeada" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionado exemplos de estrutura condicional encadeada" />
+    <MESSAGE value="Adicionado exemplos de estrutura condicional ternaria" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado exemplos de estrutura condicional ternaria" />
   </component>
 </project>
