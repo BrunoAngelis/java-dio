@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="218b7460-57f6-4246-a10b-081b46989288" name="Changes" comment="Adicionado exemplos de estrutura condicional ternaria">
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/SwitchCase.java" afterDir="false" />
+    <list default="true" id="218b7460-57f6-4246-a10b-081b46989288" name="Changes" comment="Adicionado exemplos de estrutura condicional Switch Case">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundamentos/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/SwitchCase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659225625301</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Adicionado exemplos de estrutura condicional Switch Case">
+      <created>1659226722880</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1659226722880</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,6 +241,7 @@
     <MESSAGE value="Adicionado exemplos de estrutura condicional composta" />
     <MESSAGE value="Adicionado exemplos de estrutura condicional encadeada" />
     <MESSAGE value="Adicionado exemplos de estrutura condicional ternaria" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionado exemplos de estrutura condicional ternaria" />
+    <MESSAGE value="Adicionado exemplos de estrutura condicional Switch Case" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado exemplos de estrutura condicional Switch Case" />
   </component>
 </project>
