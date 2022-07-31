@@ -2,23 +2,19 @@ package fundamentos;
 
 public class SwitchCase {
     public static void main(String[] args) {
-        char sigla = 'P';
+        char plano= 'B'; //M ; 'B';
 
-        switch (sigla){
-            case 'P':{
-                System.out.printf("PEQUENO");
-                break;
+        switch (plano){
+            case 'T':{
+                System.out.println("5G YOUTUBE");
             }
             case 'M':{
-                System.out.printf("MEDIO");
-                break;
+                System.out.printf("Whats e Instagram grátis");
             }
-            case 'G':{
-                System.out.println("GRANDE");
-                break;
+            case 'B':{
+                System.out.println("100 minutos de ligação");
             }
-            default:
-                System.out.println("VALOR INVALIDO");
+
         }
     }
 }
