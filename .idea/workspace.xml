@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="218b7460-57f6-4246-a10b-081b46989288" name="Changes" comment="Adicionado exemplos de (For, ForArray, While, DoWhile)">
+    <list default="true" id="218b7460-57f6-4246-a10b-081b46989288" name="Changes" comment="Adicionado exemplos de Tratamentos de Excessões">
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/CepInvalidoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/ExemploExcessão.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/FormatadorCepExemplo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundamentos/AboutMe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/AboutMe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +43,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/DIO/java-dio&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AboutMe">
+  <component name="RunManager" selected="Application.FormatadorCepExemplo">
     <configuration name="AboutMe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fundamentos.AboutMe" />
       <module name="java-dio" />
@@ -68,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.ExemploFor" />
+    <configuration name="ExemploExcessão" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.ExemploExcessão" />
       <module name="java-dio" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.SwitchCase" />
+    <configuration name="FormatadorCepExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.FormatadorCepExemplo" />
       <module name="java-dio" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FormatadorCepExemplo" />
+        <item itemvalue="Application.ExemploExcessão" />
         <item itemvalue="Application.AboutMe" />
         <item itemvalue="Application.ExemploBreakContinue" />
         <item itemvalue="Application.ExemploForArray" />
-        <item itemvalue="Application.ExemploFor" />
-        <item itemvalue="Application.SwitchCase" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659481162207</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Adicionado exemplos de Tratamentos de Excessões">
+      <created>1659482644512</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1659482644512</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -264,6 +273,7 @@
     <MESSAGE value="Adicionado exemplos de estrutura condicional ternaria" />
     <MESSAGE value="Adicionado exemplos de estrutura condicional Switch Case" />
     <MESSAGE value="Adicionado exemplos de (For, ForArray, While, DoWhile)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionado exemplos de (For, ForArray, While, DoWhile)" />
+    <MESSAGE value="Adicionado exemplos de Tratamentos de Excessões" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado exemplos de Tratamentos de Excessões" />
   </component>
 </project>
